@@ -39,6 +39,9 @@ final barService = instanceProvider.get(barServiceMeta);
 
 This project is licensed under the MIT license.
 
+## Inspiration
+
+Idea inspired by [Riverpod](https://github.com/rrousselGit/riverpod) project.
 
 ## Additional information
 
